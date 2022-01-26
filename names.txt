@@ -4,3 +4,5 @@ mikat
 
 
 mishkat
+nuzhat
+farhat
